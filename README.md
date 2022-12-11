@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/jahongirdev/frontendmentor-huddle-main)
-- Live Site URL: [Live Preview]()
+- Live Site URL: [Live Preview](https://huddle-main.netlify.app/)
 
 ### Built with
 
